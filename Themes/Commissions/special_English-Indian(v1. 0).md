@@ -1,7 +1,7 @@
 # Special English-Indian
 
 
-Samsung-esque keyboard theme for [thisisartman]()
+Samsung-esque keyboard theme for [thisisartman](https://github.com/thisisartman)
 
 
 ## Contents:
@@ -14,7 +14,7 @@ Samsung-esque keyboard theme for [thisisartman]()
                  
   Requirements & Other
              
-- Goes with the special_English-Indian(v1.0) Layout
+- Goes with the [special_English-Indian(v1.0) Layout](https://github.com/A-Guest19/Heliboard_Themes_Private/blob/main/Layouts/Commissions/special_English-Indian(v1.%200).md#special-english-indian-layout)
 
 ### Theme:
 ```
