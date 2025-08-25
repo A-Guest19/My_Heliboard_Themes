@@ -1,4 +1,4 @@
-# Special English-Indian
+# Special English-Indian Theme
 
 
 Samsung-esque keyboard theme for [thisisartman](https://github.com/thisisartman)
