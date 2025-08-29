@@ -55,7 +55,7 @@ LG style keyboard resembling the ~2016 v6.5.7 edition.
 - Change input method with space key on
 - Long press symbols key for numpad
 
-Goes With: (this LG Light Theme)[] & (this LG Dark Theme)[]
+Goes With: [this LG Light Theme](https://github.com/A-Guest19/My_Heliboard_Themes/blob/main/Themes/Clones/LG%20Light%20v2.0.md#lg-light-theme-v20) & [this LG Dark Theme](https://github.com/A-Guest19/My_Heliboard_Themes/blob/main/Themes/Clones/LG%20Dark%20v2.0.md#lg-dark-theme-v20)
 ```
 ```
 </details></blockquote>
