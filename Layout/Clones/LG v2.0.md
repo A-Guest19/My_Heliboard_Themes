@@ -1,6 +1,5 @@
 # LG v2.0
 
-(under construction, some parts may be inaccurate)
 
 
 LG style keyboard resembling the ~2016 v6.5.7 edition.
